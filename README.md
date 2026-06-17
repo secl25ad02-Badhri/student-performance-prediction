@@ -20,3 +20,9 @@ This project predicts student marks based on study hours using Machine Learning.
 pip install pandas matplotlib scikit-learn numpy
 
 py main.py
+
+## Output
+
+### Student Performance Graph
+
+![Graph](student_performance_graph.png)
