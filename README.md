@@ -15,17 +15,8 @@ This project predicts student marks based on study hours using Machine Learning.
 - Trains a Linear Regression model
 - Predicts marks for new study-hour values
 
-## Project Structure
-
-Student-Performance-Prediction/
-│
-├── main.py
-├── student_data.csv
-├── graph.png
-└── README.md
-
 ## How to Run
 
-pip install pandas matplotlib scikit-learn
+pip install pandas matplotlib scikit-learn numpy
 
 py main.py
