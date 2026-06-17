@@ -26,3 +26,9 @@ py main.py
 ### Student Performance Graph
 
 ![Graph](student_performance_graph.png)
+
+## Sample Output
+
+Enter study hours: 8
+
+Predicted Marks: 80.12
